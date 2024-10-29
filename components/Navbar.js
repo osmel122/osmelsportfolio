@@ -16,7 +16,7 @@ const Navbar = () => (
         </a>
       </li>
       <li>
-        <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/osmel-hernandez-89b818300/" target="_blank" rel="noopener noreferrer">
           LinkedIn
         </a>
       </li>
