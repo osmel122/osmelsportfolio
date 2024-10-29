@@ -9,7 +9,7 @@ const Navbar = () => (
     </h1>
     <ul className={styles.navLinks}>
       <li><Link href="/about">About Me</Link></li>
-      <li><Link href="/projects">Skills</Link></li>
+      <li><Link href="/skills">Skills</Link></li>
       <li>
         <a href="https://github.com/osmel122" target="_blank" rel="noopener noreferrer">
           GitHub
