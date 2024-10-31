@@ -26,4 +26,11 @@ h1 {
     text-shadow: 0 0 20px #ff00ff, 0 0 30px #ff00ff;
   }
 }
+/* styles/globals.css */
+html,body {
+  height: 100%; /* Ensures the body takes the full height of the viewport */
+  margin: 0;    /* Resets default margin */
+  scroll-behavior: smooth;
+  overflow-y: auto !important;
+}
 
